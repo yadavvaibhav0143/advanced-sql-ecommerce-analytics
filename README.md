@@ -1,7 +1,7 @@
 # Advanced E-Commerce Analytics Engine
 
 ## Project Overview
-This project demonstrates advanced SQL techniques using a PostgreSQL database for an e-commerce business. It analyzes customer behavior, sales performance, product trends, payment transactions, and marketing attribution to generate business insights through SQL and Tableau.
+This project demonstrates advanced SQL techniques using a PostgreSQL database for an e-commerce business. It analyzes customer behavior, sales performance, product trends, payment transactions, and marketing attribution to generate business insights through SQL.
 
 ## Database Schema
 The solution uses a normalized 6-table relational database:
