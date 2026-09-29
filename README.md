@@ -39,7 +39,7 @@ This project converts these questions into a structured PostgreSQL analytics lay
 
 - [PostgreSQL Schema](./schema/schema/schema/advanced_ecommerce_schema.sql)
 - [Excel Dataset](./advanced_ecommerce_analytics_dataset.xlsx..xlsx)
-- [Dashboard](./Dashboard.png)
+- [Tableau Dashboard](./Dashboard.png)
 - [Query Result 1](./Query.result-1.png)
 - [Query Result 2](./Query.result-2.png)
 - [Data & SQL Files](./data/)
